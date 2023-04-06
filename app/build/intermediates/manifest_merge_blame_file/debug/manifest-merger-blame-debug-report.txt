@@ -1,0 +1,335 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hovercout.sahabatlaundry"
+4    android:versionCode="2"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:5:5-79
+11-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:6:5-80
+12-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:7:5-67
+13-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:7:22-64
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:8:5-65
+14-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:8:22-63
+15
+16    <!-- Include required permissions for Google Maps API to run. -->
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\365742b94f95eaee536f4bc3396a1b6a\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+17-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\365742b94f95eaee536f4bc3396a1b6a\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+18
+19    <uses-feature
+19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\365742b94f95eaee536f4bc3396a1b6a\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+20        android:glEsVersion="0x00020000"
+20-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\365742b94f95eaee536f4bc3396a1b6a\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+21        android:required="true" /> <!-- Required by older versions of Google Play services to create GCM registration tokens -->
+21-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\365742b94f95eaee536f4bc3396a1b6a\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+22    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+22-->[com.google.android.gms:play-services-gcm:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\446024e6ea5f276518e16406aa9ba582\jetified-play-services-gcm-17.0.0\AndroidManifest.xml:23:5-82
+22-->[com.google.android.gms:play-services-gcm:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\446024e6ea5f276518e16406aa9ba582\jetified-play-services-gcm-17.0.0\AndroidManifest.xml:23:22-79
+23    <uses-permission android:name="android.permission.WAKE_LOCK" />
+23-->[com.google.firebase:firebase-iid:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\2e1a2fc9f79e3867b2cabe165426caf5\jetified-firebase-iid-20.1.4\AndroidManifest.xml:24:5-68
+23-->[com.google.firebase:firebase-iid:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\2e1a2fc9f79e3867b2cabe165426caf5\jetified-firebase-iid-20.1.4\AndroidManifest.xml:24:22-65
+24
+25    <application
+25-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:10:5-72:19
+26        android:allowBackup="true"
+26-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:11:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.1.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\910e24fc762c7909e0c7bff281e94de2\core-1.1.0\AndroidManifest.xml:24:18-86
+28        android:debuggable="true"
+29        android:extractNativeLibs="false"
+30        android:hardwareAccelerated="false"
+30-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:12:9-44
+31        android:icon="@drawable/sahabatlaundry"
+31-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:13:9-48
+32        android:label="@string/app_name"
+32-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:14:9-41
+33        android:largeHeap="true"
+33-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:15:9-33
+34        android:roundIcon="@drawable/sahabatlaundry"
+34-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:16:9-53
+35        android:supportsRtl="true"
+35-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:17:9-35
+36        android:theme="@style/AppTheme"
+36-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:18:9-40
+37        android:usesCleartextTraffic="true" >
+37-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:19:9-44
+38        <service
+38-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:21:9-27:19
+39            android:name="com.hovercout.sahabatlaundry.fcm.Notification"
+39-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:22:13-45
+40            android:stopWithTask="false" >
+40-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:23:13-41
+41            <intent-filter>
+41-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:24:13-26:29
+42                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+42-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:25:17-78
+42-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:25:25-75
+43            </intent-filter>
+44        </service>
+45
+46        <meta-data
+46-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:29:9-31:55
+47            android:name="com.google.android.geo.API_KEY"
+47-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:30:13-58
+48            android:value="@string/google_maps_key" />
+48-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:31:13-52
+49        <meta-data
+49-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:32:9-34:57
+50            android:name="preloaded_fonts"
+50-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:33:13-43
+51            android:resource="@array/preloaded_fonts" />
+51-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:34:13-54
+52
+53        <activity android:name="com.hovercout.sahabatlaundry.PilihRegister" />
+53-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:37:9-51
+53-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:37:19-48
+54        <activity android:name="com.hovercout.sahabatlaundry.UploadFoto" />
+54-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:38:9-48
+54-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:38:19-45
+55        <activity android:name="com.hovercout.sahabatlaundry.DetailPesananMitra" />
+55-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:39:9-56
+55-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:39:19-53
+56        <activity android:name="com.hovercout.sahabatlaundry.UbahLayanan" />
+56-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:40:9-49
+56-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:40:19-46
+57        <activity android:name="com.hovercout.sahabatlaundry.UbahProfilMitra" />
+57-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:41:9-53
+57-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:41:19-50
+58        <activity android:name="com.hovercout.sahabatlaundry.UbahPasswordMitra" />
+58-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:42:9-55
+58-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:42:19-52
+59        <activity android:name="com.hovercout.sahabatlaundry.TambahLayanan" />
+59-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:43:9-51
+59-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:43:19-48
+60        <activity
+60-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:44:9-47:59
+61            android:name="com.hovercout.sahabatlaundry.HalamanMitra"
+61-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:45:13-41
+62            android:label="@string/title_activity_halaman_mitra"
+62-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:46:13-65
+63            android:theme="@style/AppTheme.NoActionBar" />
+63-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:47:13-56
+64        <activity android:name="com.hovercout.sahabatlaundry.DetailPesananCustomer" />
+64-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:48:9-59
+64-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:48:19-56
+65        <activity android:name="com.hovercout.sahabatlaundry.HalamanKonfirmasi" />
+65-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:49:9-55
+65-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:49:19-52
+66        <activity android:name="com.hovercout.sahabatlaundry.UbahPasswordCustomer" />
+66-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:50:9-58
+66-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:50:19-55
+67        <activity android:name="com.hovercout.sahabatlaundry.UbahProfilCustomer" />
+67-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:51:9-56
+67-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:51:19-53
+68        <activity android:name="com.hovercout.sahabatlaundry.HistoryLaundry" />
+68-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:52:9-52
+68-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:52:19-49
+69        <activity android:name="com.hovercout.sahabatlaundry.LaundrySaya" />
+69-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:53:9-49
+69-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:53:19-46
+70        <activity android:name="com.hovercout.sahabatlaundry.DetailMitra" />
+70-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:54:9-49
+70-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:54:19-46
+71        <activity android:name="com.hovercout.sahabatlaundry.PesanLaundry" />
+71-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:55:9-50
+71-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:55:19-47
+72        <activity
+72-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:56:9-58:71
+73            android:name="com.hovercout.sahabatlaundry.HalamanCustomer"
+73-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:57:13-44
+74            android:label="@string/title_activity_halaman_customer" />
+74-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:58:13-68
+75        <activity
+75-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:59:9-61:59
+76            android:name="com.hovercout.sahabatlaundry.PilihMaps"
+76-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:60:13-38
+77            android:label="@string/title_activity_maps" />
+77-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:61:13-56
+78        <activity android:name="com.hovercout.sahabatlaundry.Login" />
+78-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:62:9-43
+78-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:62:19-40
+79        <activity android:name="com.hovercout.sahabatlaundry.Register" />
+79-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:63:9-46
+79-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:63:19-43
+80        <activity android:name="com.hovercout.sahabatlaundry.SplashScreen" >
+80-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:64:9-70:20
+80-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:64:19-47
+81            <intent-filter>
+81-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:65:13-69:29
+82                <action android:name="android.intent.action.MAIN" />
+82-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:66:17-69
+82-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:66:25-66
+83
+84                <category android:name="android.intent.category.LAUNCHER" />
+84-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:68:17-77
+84-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:68:27-74
+85            </intent-filter>
+86        </activity>
+87        <activity android:name="com.hovercout.sahabatlaundry.MenuUtama" />
+87-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:71:9-47
+87-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:71:19-44
+88        <!-- Needs to be explicitly declared on P+ -->
+89        <uses-library
+89-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\365742b94f95eaee536f4bc3396a1b6a\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+90            android:name="org.apache.http.legacy"
+90-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\365742b94f95eaee536f4bc3396a1b6a\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+91            android:required="false" />
+91-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\365742b94f95eaee536f4bc3396a1b6a\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+92        <!--
+93             FirebaseMessagingService performs security checks at runtime,
+94             but set to not exported to explicitly avoid allowing another app to call it.
+95        -->
+96        <service
+96-->[com.google.firebase:firebase-messaging:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\b844c3409bacfa00e63c760ade7ae7e1\jetified-firebase-messaging-20.1.4\AndroidManifest.xml:28:9-34:19
+97            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+97-->[com.google.firebase:firebase-messaging:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\b844c3409bacfa00e63c760ade7ae7e1\jetified-firebase-messaging-20.1.4\AndroidManifest.xml:29:13-82
+98            android:exported="false" >
+98-->[com.google.firebase:firebase-messaging:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\b844c3409bacfa00e63c760ade7ae7e1\jetified-firebase-messaging-20.1.4\AndroidManifest.xml:30:13-37
+99            <intent-filter android:priority="-500" >
+99-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:24:13-26:29
+100                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+100-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:25:17-78
+100-->D:\Kuliah\AndroidStudio\SahabatLaundry\app\src\main\AndroidManifest.xml:25:25-75
+101            </intent-filter>
+102        </service>
+103        <service
+103-->[com.google.firebase:firebase-messaging:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\b844c3409bacfa00e63c760ade7ae7e1\jetified-firebase-messaging-20.1.4\AndroidManifest.xml:35:9-41:19
+104            android:name="com.google.firebase.components.ComponentDiscoveryService"
+104-->[com.google.firebase:firebase-messaging:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\b844c3409bacfa00e63c760ade7ae7e1\jetified-firebase-messaging-20.1.4\AndroidManifest.xml:36:13-84
+105            android:directBootAware="true"
+105-->[com.google.firebase:firebase-common:19.3.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\561224d95afb1c86e82bde3d66c2b645\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+106            android:exported="false" >
+106-->[com.google.firebase:firebase-messaging:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\b844c3409bacfa00e63c760ade7ae7e1\jetified-firebase-messaging-20.1.4\AndroidManifest.xml:37:13-37
+107            <meta-data
+107-->[com.google.firebase:firebase-messaging:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\b844c3409bacfa00e63c760ade7ae7e1\jetified-firebase-messaging-20.1.4\AndroidManifest.xml:38:13-40:85
+108                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+108-->[com.google.firebase:firebase-messaging:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\b844c3409bacfa00e63c760ade7ae7e1\jetified-firebase-messaging-20.1.4\AndroidManifest.xml:39:17-119
+109                android:value="com.google.firebase.components.ComponentRegistrar" />
+109-->[com.google.firebase:firebase-messaging:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\b844c3409bacfa00e63c760ade7ae7e1\jetified-firebase-messaging-20.1.4\AndroidManifest.xml:40:17-82
+110            <meta-data
+110-->[com.google.firebase:firebase-iid:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\2e1a2fc9f79e3867b2cabe165426caf5\jetified-firebase-iid-20.1.4\AndroidManifest.xml:32:13-34:85
+111                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+111-->[com.google.firebase:firebase-iid:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\2e1a2fc9f79e3867b2cabe165426caf5\jetified-firebase-iid-20.1.4\AndroidManifest.xml:33:17-96
+112                android:value="com.google.firebase.components.ComponentRegistrar" />
+112-->[com.google.firebase:firebase-iid:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\2e1a2fc9f79e3867b2cabe165426caf5\jetified-firebase-iid-20.1.4\AndroidManifest.xml:34:17-82
+113            <meta-data
+113-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\3df16c329eb72525b235a791e531d7a8\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+114                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+114-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\3df16c329eb72525b235a791e531d7a8\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+115                android:value="com.google.firebase.components.ComponentRegistrar" />
+115-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\3df16c329eb72525b235a791e531d7a8\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+116            <meta-data
+116-->[com.google.firebase:firebase-installations:16.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\b510418887344e94416ee6d39fe17a32\jetified-firebase-installations-16.2.0\AndroidManifest.xml:17:13-19:85
+117                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+117-->[com.google.firebase:firebase-installations:16.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\b510418887344e94416ee6d39fe17a32\jetified-firebase-installations-16.2.0\AndroidManifest.xml:18:17-127
+118                android:value="com.google.firebase.components.ComponentRegistrar" />
+118-->[com.google.firebase:firebase-installations:16.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\b510418887344e94416ee6d39fe17a32\jetified-firebase-installations-16.2.0\AndroidManifest.xml:19:17-82
+119        </service>
+120
+121        <provider
+121-->[com.squareup.picasso:picasso:2.71828] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\5d86f19a7a88962501f3c3f798319114\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+122            android:name="com.squareup.picasso.PicassoProvider"
+122-->[com.squareup.picasso:picasso:2.71828] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\5d86f19a7a88962501f3c3f798319114\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+123            android:authorities="com.hovercout.sahabatlaundry.com.squareup.picasso"
+123-->[com.squareup.picasso:picasso:2.71828] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\5d86f19a7a88962501f3c3f798319114\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+124            android:exported="false" />
+124-->[com.squareup.picasso:picasso:2.71828] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\5d86f19a7a88962501f3c3f798319114\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+125
+126        <receiver
+126-->[com.google.firebase:firebase-iid:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\2e1a2fc9f79e3867b2cabe165426caf5\jetified-firebase-iid-20.1.4\AndroidManifest.xml:37:9-44:20
+127            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+127-->[com.google.firebase:firebase-iid:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\2e1a2fc9f79e3867b2cabe165426caf5\jetified-firebase-iid-20.1.4\AndroidManifest.xml:38:13-78
+128            android:exported="true"
+128-->[com.google.firebase:firebase-iid:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\2e1a2fc9f79e3867b2cabe165426caf5\jetified-firebase-iid-20.1.4\AndroidManifest.xml:39:13-36
+129            android:permission="com.google.android.c2dm.permission.SEND" >
+129-->[com.google.firebase:firebase-iid:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\2e1a2fc9f79e3867b2cabe165426caf5\jetified-firebase-iid-20.1.4\AndroidManifest.xml:40:13-73
+130            <intent-filter>
+130-->[com.google.firebase:firebase-iid:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\2e1a2fc9f79e3867b2cabe165426caf5\jetified-firebase-iid-20.1.4\AndroidManifest.xml:41:13-43:29
+131                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+131-->[com.google.firebase:firebase-iid:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\2e1a2fc9f79e3867b2cabe165426caf5\jetified-firebase-iid-20.1.4\AndroidManifest.xml:42:17-81
+131-->[com.google.firebase:firebase-iid:20.1.4] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\2e1a2fc9f79e3867b2cabe165426caf5\jetified-firebase-iid-20.1.4\AndroidManifest.xml:42:25-78
+132            </intent-filter>
+133        </receiver>
+134
+135        <activity
+135-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\7c07e5a7fa6d974b3595f7f2f9a9eba1\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+136            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+136-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\7c07e5a7fa6d974b3595f7f2f9a9eba1\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+137            android:exported="false"
+137-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\7c07e5a7fa6d974b3595f7f2f9a9eba1\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+138            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+138-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\7c07e5a7fa6d974b3595f7f2f9a9eba1\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+139
+140        <provider
+140-->[com.google.firebase:firebase-common:19.3.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\561224d95afb1c86e82bde3d66c2b645\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+141            android:name="com.google.firebase.provider.FirebaseInitProvider"
+141-->[com.google.firebase:firebase-common:19.3.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\561224d95afb1c86e82bde3d66c2b645\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+142            android:authorities="com.hovercout.sahabatlaundry.firebaseinitprovider"
+142-->[com.google.firebase:firebase-common:19.3.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\561224d95afb1c86e82bde3d66c2b645\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+143            android:exported="false"
+143-->[com.google.firebase:firebase-common:19.3.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\561224d95afb1c86e82bde3d66c2b645\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+144            android:initOrder="100" />
+144-->[com.google.firebase:firebase-common:19.3.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\561224d95afb1c86e82bde3d66c2b645\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+145
+146        <meta-data
+146-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\a52bfb92d2b276c79d11db281b8aa668\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+147            android:name="com.google.android.gms.version"
+147-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\a52bfb92d2b276c79d11db281b8aa668\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+148            android:value="@integer/google_play_services_version" />
+148-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\a52bfb92d2b276c79d11db281b8aa668\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+149
+150        <provider
+150-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\4a1d5087b91a56bd2b90f37f1d0a7b61\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+151            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+151-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\4a1d5087b91a56bd2b90f37f1d0a7b61\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+152            android:authorities="com.hovercout.sahabatlaundry.lifecycle-process"
+152-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\4a1d5087b91a56bd2b90f37f1d0a7b61\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+153            android:exported="false"
+153-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\4a1d5087b91a56bd2b90f37f1d0a7b61\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+154            android:multiprocess="true" />
+154-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\4a1d5087b91a56bd2b90f37f1d0a7b61\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+155
+156        <service
+156-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\80740ea671f9509e07d6a34e2b93f75c\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
+157            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+157-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\80740ea671f9509e07d6a34e2b93f75c\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
+158            android:exported="false" >
+158-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\80740ea671f9509e07d6a34e2b93f75c\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
+159            <meta-data
+159-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\80740ea671f9509e07d6a34e2b93f75c\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
+160                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+160-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\80740ea671f9509e07d6a34e2b93f75c\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
+161                android:value="cct" />
+161-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\80740ea671f9509e07d6a34e2b93f75c\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
+162        </service>
+163        <service
+163-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\65c9f7529c4981d43c925fa693badfa2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
+164            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+164-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\65c9f7529c4981d43c925fa693badfa2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
+165            android:exported="false"
+165-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\65c9f7529c4981d43c925fa693badfa2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
+166            android:permission="android.permission.BIND_JOB_SERVICE" >
+166-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\65c9f7529c4981d43c925fa693badfa2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
+167        </service>
+168
+169        <receiver
+169-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\65c9f7529c4981d43c925fa693badfa2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
+170            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+170-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\65c9f7529c4981d43c925fa693badfa2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:33:13-132
+171            android:exported="false" />
+171-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\M Reza Khalafi\.gradle\caches\transforms-2\files-2.1\65c9f7529c4981d43c925fa693badfa2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
+172    </application>
+173
+174</manifest>

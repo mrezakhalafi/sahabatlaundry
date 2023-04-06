@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layanansaya.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\layanansaya.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_defaultmitrabig.jpg.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\defaultmitrabig.jpg"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ubah_password.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_ubah_password.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_tampil_pesanan_mitra.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\tampil_pesanan_mitra.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_halaman_mitra.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\app_bar_halaman_mitra.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_tampil_history.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\tampil_history.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_partner.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\partner.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mencuci.jpg.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\mencuci.jpg"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster1.jpg.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\poster1.jpg"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\frame.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_laundrysaya.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\laundrysaya.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dalamproses.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\dalamproses.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mapsicon.bmp.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\mapsicon.bmp"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_pesanan_mitra.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_detail_pesanan_mitra.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ilustrasi.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\ilustrasi.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_red.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\round_red.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history_laundry.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_history_laundry.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_history.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_garis.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\garis.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\font_carter_one.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\font\\carter_one.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster2.jpg.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\poster2.jpg"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ubah_profil_mitra.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_ubah_profil_mitra.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chome.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\fragment_chome.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_laundry_saya.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_laundry_saya.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ubah_layanan.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_ubah_layanan.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_defaultcustomer.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\defaultcustomer.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_orange.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\round_orange.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sahabatlaundry2.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\sahabatlaundry2.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_partner.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\fragment_partner.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_layanan.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\fragment_layanan.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_admin.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\admin.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_account.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back2.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\back2.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_green.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\round_green.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pesananmasuk.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\pesananmasuk.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_halaman_konfirmasi.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_halaman_konfirmasi.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_defaultitem.webp.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\defaultitem.webp"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_halaman_customer.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_halaman_customer.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\font\\aclonica.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ubah_password_mitra.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_ubah_password_mitra.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\navigation_cmobile_navigation.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\navigation\\cmobile_navigation.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_announce.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\announce.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_tampil_mitra.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\tampil_mitra.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setrika.jpg.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\setrika.jpg"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profil.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\fragment_profil.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_halaman_mitra.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\nav_header_halaman_mitra.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_account.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\account.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_judul.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\judul.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_defaultmitrasmall.jpg.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\defaultmitrasmall.jpg"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_upload_foto.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_upload_foto.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pesanan.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\fragment_pesanan.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_blue.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\round_blue.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_defaultmitra.jpg.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\defaultmitra.jpg"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\font_autour_one.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\font\\autour_one.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_halaman_mitra_drawer.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\menu\\activity_halaman_mitra_drawer.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_pesanan.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_detail_pesanan.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu.jpg.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\menu.jpg"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_tampil_pesanan.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\tampil_pesanan.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_halaman_mitra.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_halaman_mitra.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pesanlaundry.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\pesanlaundry.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_historylaundry.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\historylaundry.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sahabatlaundry.png.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\sahabatlaundry.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tambah_layanan.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_tambah_layanan.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menjemur.jpg.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\menjemur.jpg"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ubah_profil.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_ubah_profil.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_historysaya.webp.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\drawable\\historysaya.webp"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_tampil_pakaian.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\tampil_pakaian.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pilih_register.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_pilih_register.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_mitra.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_detail_mitra.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_proses.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\fragment_proses.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pesan_laundry.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\activity_pesan_laundry.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_tampil_layanan.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\tampil_layanan.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_halaman_mitra.xml.flat",
+        "source": "D:\\Kuliah\\AndroidStudio\\SahabatLaundry\\app\\src\\main\\res\\layout\\content_halaman_mitra.xml"
+    }
+]
