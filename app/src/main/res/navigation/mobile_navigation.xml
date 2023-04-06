@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_pesanan">
+
+    <fragment
+        android:id="@+id/nav_pesanan"
+        android:name="com.hovercout.sahabatlaundry.mitra.pesanan.PesananFragment"
+        android:label="@string/pesanan_masuk"
+        tools:layout="@layout/fragment_pesanan">
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_proses"
+        android:name="com.hovercout.sahabatlaundry.mitra.proses.ProsesFragment"
+        android:label="@string/dalam_proses"
+        tools:layout="@layout/fragment_proses">
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_history"
+        android:name="com.hovercout.sahabatlaundry.mitra.history.HistoryFragment"
+        android:label="@string/history_saya"
+        tools:layout="@layout/fragment_history">
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_layanan"
+        android:name="com.hovercout.sahabatlaundry.mitra.layanan.LayananFragment"
+        android:label="@string/layanan_saya"
+        tools:layout="@layout/fragment_layanan" />
+
+    <fragment
+        android:id="@+id/nav_profil"
+        android:name="com.hovercout.sahabatlaundry.mitra.profil.ProfilFragment"
+        android:label="@string/info_profil"
+        tools:layout="@layout/fragment_profil" />
+</navigation>

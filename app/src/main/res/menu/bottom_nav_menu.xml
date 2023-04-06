@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_chome"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_chome" />
+
+    <item
+        android:id="@+id/navigation_partner"
+        android:icon="@drawable/partner"
+        android:title="@string/title_partner" />
+
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/account"
+        android:title="@string/title_account" />
+
+</menu>

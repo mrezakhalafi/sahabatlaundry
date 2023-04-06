@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_margin="10dp"
+    android:paddingStart="10dp"
+    android:background="@drawable/garis"
+    android:paddingEnd="10dp">
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_weight="1"
+        android:contentDescription="@string/mitra_foto"
+        android:layout_marginTop="15dp"
+        android:id="@+id/ivMitra"
+        android:src="@drawable/defaultmitrasmall" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="10"
+        android:padding="10dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=""
+            android:textStyle="bold"
+            android:id="@+id/etId"
+            android:textSize="15sp"
+            android:textAllCaps="true"
+            android:textColor="@color/laundry"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=""
+        android:textStyle="bold"
+        android:id="@+id/etNamaMitra"
+        android:textSize="15sp"
+        android:textAllCaps="true"
+        android:textColor="@color/laundry"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=""
+        android:id="@+id/etAlamatMitra"
+        android:textColor="@color/hitam"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=""
+        android:id="@+id/etJamOperasional"
+        android:textColor="@color/hitam"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/etJauh"
+        android:textStyle="bold"
+        android:textColor="@color/hijau"/>
+    </LinearLayout>
+</LinearLayout>

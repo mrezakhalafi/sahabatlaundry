@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Sahabat Laundry</string>
+    <string name="sahabat_laundry">SAHABAT LAUNDRY</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nama_mitra">Nama Mitra</string>
+    <string name="nama_pemesan">Nama Pemesan</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="alamat">Alamat</string>
+
+    <string name="alamat_lengkap">Alamat Lengkap</string>
+    <string name="no_handphone">Nomor Handphone</string>
+    <string name="jam_operasional">Jam Operasional</string>
+    <string name="bergabung">Bergabung</string>
+    <string name="avatar">Avatar</string>
+    <string name="no_handphone_kode">+62</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="logout">Logout</string>
+    <string name="ubah_profil">Ubah Profil</string>
+    <string name="ubah_password">Ubah Password</string>
+
+    <string name="ubah">Ubah</string>
+    <string name="hapus">Hapus</string>
+    <string name="halaman_register">HALAMAN REGISTRASI</string>
+    <string name="halaman_login">HALAMAN LOGIN</string>
+    <string name="halaman_ubah_profil">HALAMAN UBAH PROFIL</string>
+    <string name="halaman_ubah_password">HALAMAN UBAH PASSWORD</string>
+    <string name="halaman_konfirmasi">HALAMAN KONFIRMASI</string>
+    <string name="detail_pesanan">DETAIL PESANAN</string>
+    <string name="kebijakan">Dengan mendaftar, anda setuju dengan kebijakan Sahabat Laundry.</string>
+    <string name="tutorial_maps">Pilih detect dan tahan marker untuk merubah lokasi.</string>
+
+    <string name="belum_punya_akun">Belum punya akun?&#160;</string>
+    <string name="daftar_disini">Daftar Disini</string>
+    <string name="password_lama">Password Lama</string>
+    <string name="password_baru">Password Baru</string>
+    <string name="konfirmasi_password_baru">Konfirmasi Password Baru</string>
+    <string name="get_location">Detect</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="title_activity_halaman_customer">Halaman Customer</string>
+    <string name="title_chome">Home</string>
+    <string name="title_partner">Partner</string>
+
+    <string name="title_account">Account</string>
+    <string name="mitra_foto">Mitra Foto</string>
+    <string name="pesan_laundry">PESAN LAUNDRY</string>
+    <string name="laundry_saya">LAUNDRY SAYA</string>
+    <string name="history">HISTORY LAUNDRY</string>
+    <string name="detail">Detail</string>
+    <string name="cancel">Cancel</string>
+    <string name="plus">+</string>
+    <string name="zero">0</string>
+    <string name="minus">-</string>
+
+    <string name="lihat">Lihat</string>
+    <string name="fitur_kami">Fitur Kami</string>
+    <string name="promo_terbaru">Promo Terbaru</string>
+    <string name="poster">Poster</string>
+    <string name="selamat_datang">Selamat Datang,&#160;</string>
+    <string name="icon">Icon</string>
+    <string name="image">Image</string>
+    <string name="back">Back</string>
+    <string name="by_hovercout">BY HOVERCOUT</string>
+    <string name="laundry">Laundry</string>
+
+    <string name="item">Item</string>
+    <string name="harga">Harga</string>
+    <string name="ongkir">Ongkir</string>
+    <string name="rincian_pesanan">RINCIAN PESANAN :</string>
+    <string name="nol_0">0</string>
+    <string name="rp_0">Rp. 0</string>
+    <string name="total_item">Total Item :&#160;</string>
+    <string name="total_harga">Total Harga :&#160;</string>
+    <string name="total_harga_rp">Total Harga : Rp. </string>
+    <string name="metode_pembayaran">Metode Pembayaran</string>
+
+    <string name="cash">Cash (Bayar di Tempat)</string>
+    <string name="pesan">Pesan</string>
+    <string name="layanan_tersedia">Layanan Tersedia</string>
+    <string name="keranjang">Keranjang</string>
+    <string name="notifikasi">NOTIFIKASI</string>
+    <string name="no_notifikasi">Anda tidak memiliki notifikasi.</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="mencuci">Mencuci</string>
+    <string name="setrika">Setrika</string>
+    <string name="menjemur">Menjemur</string>
+
+    <string name="title_activity_halaman_mitra">Halaman Mitra</string>
+    <string name="nav_header_desc">Navigation Header</string>
+    <string name="pesanan">Pesanan</string>
+    <string name="layanan">Layanan</string>
+    <string name="profil">Profil</string>
+    <string name="home_second">Home Second</string>
+    <string name="tambah">TAMBAH</string>
+    <string name="tambah_layanan">HALAMAN TAMBAH LAYANAN</string>
+    <string name="nama">Nama</string>
+    <string name="rp">Rp.</string>
+
+    <string name="konfirmasi">Konfirmasi</string>
+    <string name="tolak">Tolak</string>
+    <string name="buka_maps">Buka Maps</string>
+    <string name="halaman_ubah_layanan">HALAMAN UBAH LAYANAN</string>
+    <string name="ubah_layanan">Ubah Layanan</string>
+    <string name="info_profil">Info Profil</string>
+    <string name="layanan_saya">Layanan Saya</string>
+    <string name="foto">Foto</string>
+    <string name="foto_laundry">FOTO LAUNDRY :</string>
+    <string name="upload_foto">Upload Foto</string>
+    <string name="pesanan_masuk">Pesanan Masuk</string>
+
+    <string name="dalam_proses">Dalam Proses</string>
+    <string name="history_saya">History Saya</string>
+    <string name="selesai">Selesai</string>
+    <string name="halaman_upload_foto">HALAMAN UPLOAD FOTO</string>
+    <string name="simpan">Simpan</string>
+    <string name="pilih_foto">Pilih Foto</string>
+    <string name="telepon">Telepon</string>
+
+    <string name="version">Version 1.1</string>
+</resources>

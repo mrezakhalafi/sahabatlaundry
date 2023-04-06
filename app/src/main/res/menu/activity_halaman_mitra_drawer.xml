@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/menu_top">
+        <item
+            android:id="@+id/nav_pesanan"
+            android:icon="@drawable/pesananmasuk"
+            android:title="@string/pesanan_masuk" />
+        <item
+            android:id="@+id/nav_proses"
+            android:icon="@drawable/dalamproses"
+            android:title="@string/dalam_proses" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/historysaya"
+            android:title="@string/history_saya" />
+    </group>
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/menu_mid">
+        <item
+            android:id="@+id/nav_layanan"
+            android:icon="@drawable/layanansaya"
+            android:title="@string/layanan_saya" />
+        <item
+            android:id="@+id/nav_profil"
+            android:icon="@drawable/account"
+            android:title="@string/info_profil" />
+    </group>
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/menu_bottom">
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="@string/logout" />
+    </group>
+</menu>

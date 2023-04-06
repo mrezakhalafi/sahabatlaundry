@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1F4E78</color>
+    <color name="colorPrimaryDark">#1F4E78</color>
+    <color name="colorAccent">#1F4E78</color>
+
+    <color name="laundry">#1F4E78</color>
+
+    <color name="putih">#FAFAFA</color>
+    <color name="hitam">#000000</color>
+    <color name="merah">#9A0606</color>
+    <color name="orange">#BD7406</color>
+    <color name="hijau">#15910D</color>
+    <color name="ungu">#C61EC2</color>
+    <color name="abuabu">#4C4C4C</color>
+</resources>

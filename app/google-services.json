@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "388381583521",
+    "firebase_url": "https://sahabatlaundry.firebaseio.com",
+    "project_id": "sahabatlaundry",
+    "storage_bucket": "sahabatlaundry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388381583521:android:368065e0135c7045da28e0",
+        "android_client_info": {
+          "package_name": "com.hovercout.sahabatlaundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388381583521-ial85jgdhb3or5a39ov2u2lg7c65fl1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLMVQrIwRhSYLj9R5NbFgsweIMbe6qdIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388381583521-ial85jgdhb3or5a39ov2u2lg7c65fl1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
